@@ -35,3 +35,8 @@ Una vez extraídos, ejecuta el script que corresponda a tu sistema operativo. Si
 
 Requisito Previo
 Es indispensable que tengas la herramienta wget instalada en tu sistema. Este es un programa de línea de comandos que se utiliza para descargar contenido de servidores web y es fundamental para que los scripts puedan realizar su función de descarga. Si no lo tienes, deberás instalarlo antes de ejecutar los scripts.
+
+Una vez extraídos, ejecuta el script que corresponda a tu sistema operativo. Si estás usando Linux, ejecuta el script sin extensión; si estás en Windows, ejecuta el archivo .bat. Al hacerlo, el script se encargará automáticamente de descargar todos los plugins que Ventoy requiere para su funcionamiento óptimo.
+
+Requisito Previo
+Es indispensable que tengas la herramienta wget instalada en tu sistema. Este es un programa de línea de comandos que se utiliza para descargar contenido de servidores web y es fundamental para que los scripts puedan realizar su función de descarga. Si no lo tienes, deberás instalarlo antes de ejecutar los scripts.
