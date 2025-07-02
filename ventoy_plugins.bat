@@ -1,0 +1,6 @@
+@echo off
+wget https://github.com/ventoy/wimiso/releases/download/v1.0/ventoy_wimboot.img
+wget https://github.com/ventoy/vhdiso/releases/download/v3.0/ventoy_vhdboot.zip
+wget https://github.com/ventoy/vtoyboot/releases/download/v1.0.36/vtoyboot-1.0.36.iso
+wget https://github.com/ventoy/DeleteVentoySecureBootKey/releases/download/v1.0/ventoy-delete-key-1.0.iso
+wget https://github.com/ventoy/backend/releases/download/v5.0/images.zip
